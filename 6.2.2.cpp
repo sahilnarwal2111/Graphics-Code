@@ -197,7 +197,7 @@ int main(int a,char ** b)
     glutInit(&a,b);
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB );
     glutInitWindowSize(500,500);
-    glutCreateWindow("2d tranform...");
+    glutCreateWindow("sahil 3d scaling");
     glutDisplayFunc(disp);
     init();
     glutMainLoop();
